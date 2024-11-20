@@ -1,0 +1,16 @@
+ota-updateType	incremental
+boot-image-last	2b7d1ea000:80000000
+wlancprops	%01%01u%04TPHN%08#%11%00%00%00%00%00%00%02C2%08hokkaido%034.7%066K%c7@%0b%00
+lts-persistance	%03%00%00%00B%0a%00%00%01%00%00%00%03%00%00%00%e0%97%ce%e1g}SA%b5%e7%cb%bf~bSASm%b3%a2%a0%8aSA%00%00%00%00%00%00%00%00%00%00%00%00
+boot-volume	EF57347C-0000-AA11-AA11-00306543ECAC:DB14D500-E106-9F48-B34C-96014FC04AFB:12FC2637-929B-475C-8D87-245D08613F4B
+bluetoothExternalDongleFailed	%00
+fmm-mobileme-token-FMM	bplist00%de%01%02%03%04%05%06%07%08%09%0a%0b%0c%0d%0e%0f%10%17%18%0f%19%1a%0f%1b%1c%1d%1e%1f!_%10%0funregisterStateXuserInfoYauthToken^rootVolumeUUID^disableContextVuserid_%10%10lastIdentityTime]enableContextXusernameXpersonIDWaddTimeTguid_%10%12enabledDataclasses_%10%13dataclassProperties%10%00%d3%11%12%13%14%15%16_%10%15InUseOwnerDisplayName_%10%13InUseOwnerFirstName_%10%12InUseOwnerLastNameYIan PirieSIanUPirie_%10%ccEAAUAAAABLwIAAAAAGVRP04RDmdzLmljbG91ZC5hdXRovQD7VZXVCR6wZSxjw_zsLmuPcCNrHm-ze9gPg_8rvuCrXaHx65rE75WuH4kTQOG1uLVTnLj6oJUuh1GEOjcAy5f2MmtztrQyhDDnzhRhpagNrWnsR_gIxZM512Hy5R8xRhtqtAV7rB9X0nC9fP0yQX4fAjFgGQ~~_%10$3248FDE5-93B2-493D-8E1A-DD5F347B070B%11%01%f5#A%d9TO%e8%ad%b65_%10%19ianpirie22@protonmail.comZ1207549597#A%d9TO%e1%d4%8d%da_%10$E35DA915-9599-4FE5-B240-717B1FFD192C%a1 _%10!com.apple.Dataclass.DeviceLocator%d1 "%d5#$%25&'()*+,VapsEnvXhostname]idsIdentifierVscheme]authMechanismZproduction_%10%14p113-fmip.icloud.com_%10$374B35DB-E6A3-4F79-8270-26B719457035UhttpsUtoken%00%08%00%25%007%00@%00J%00Y%00h%00o%00%82%00%90%00%99%00%a2%00%aa%00%af%00%c4%00%da%00%dc%00%e3%00%fb%01%11%01&%010%014%01:%02%09%020%023%02<%02X%02c%02l%02%93%02%95%02%b9%02%bc%02%c7%02%ce%02%d7%02%e5%02%ec%02%fa%03%05%03%1c%03C%03I%00%00%00%00%00%00%02%01%00%00%00%00%00%00%00-%00%00%00%00%00%00%00%00%00%00%00%00%00%00%03O
+BluetoothInfo	%0f%00
+fmm-mobileme-token-FMM-BridgeHasAccount	BridgeHasAccountValue
+panicmedic-timestamps	0:60b27c5e9722f
+battery-health	{"seed1":4545,"fccDaySampleCount":112,"Battery Service State":0,"version":65536,"seedTs":1690365385,"waitFc":0,"nccAvg":4284,"fccDaySampleAvgAlt":4321,"nccAvgAlt":4285,"seed0":4545,"fccDaySampleAvg":4321,"ncc":94,"Maximum Capacity Percent":99,"tsPrev":1731937759,"Battery Serial":"F5D326415LR10DLB8","ts":1732024180,"fccAvgHistoryCount":367,"Battery Service Flags":3,"nccAlt":94}
+upgrade-boot-volume	EF57347C-0000-AA11-AA11-00306543ECAC:DB14D500-E106-9F48-B34C-96014FC04AFB:5F9234CF-C7F4-496F-B5F4-646CA2537157
+backlight-nits	0x008c0000
+BluetoothUHEDevices	%cc%08%fai%ab%0c%00%04
+bluetoothInternalControllerInfo	%00%00%00%00%00%00%00%00%cc%08%fai%ab%0c
+fmm-computer-name	MacBook Air
